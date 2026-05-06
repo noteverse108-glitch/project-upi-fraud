@@ -12,15 +12,20 @@ UPI-Fraud-Analyzer/
 
 ├── src/
 
-│   └── phase1_load_data.py
+│   └── P_1_data_loading.py
 
 │   └── P_2_feature_engineering.py
 
 │   └── P_3_analyze_build_model.py
 
 ├── dashboard/
+
 │   └── upi_fraud_dashboard.pbix
+
 │   └── dashboard_screenshot.png
+
 ├── docs/
+
 │   └── insight_report.pdf
+
 └── requirements.txt
